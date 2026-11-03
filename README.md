@@ -1,5 +1,3 @@
-# Fortune-Cookie-Generator
-🥠 A simple Python fortune cookie generator using functions, lists, random number generation, and list indexing.
 # 🥠 Fortune Cookie Generator
 
 A beginner-friendly Python exercise that generates random fortune cookie messages using functions, lists, and the `random` module.
